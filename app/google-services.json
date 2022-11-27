@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897861987610",
+    "project_id": "fir-booook",
+    "storage_bucket": "fir-booook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897861987610:android:dc0525c7739419598390a3",
+        "android_client_info": {
+          "package_name": "com.example.firebasebookapp_authen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897861987610-4ohr8nhg97phatmn34utmu1c4lhta29q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH6DwJp5vuYxCOXmonCDnPmh2HHbvJXws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897861987610-4ohr8nhg97phatmn34utmu1c4lhta29q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
